@@ -8,22 +8,23 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **CESAR School** 
 
 ### 💻 Minhas Habilidades
 
-#### Hard Skills 💡
-- Comandos Git
-- Comandos Bash (Linux)
-- HTML, CSS, JavaScript, Python, C#
-- React <<< 📚(estudando)
-- JSON
-- Algoritmo e Estrutura de dados
+### 🚀 Atualmente:
+- Trabalhando em: Projeto Gerador de Imagens (https://github.com/BabiCabral/projeto-gerador-imagens-ia)
+- Estudando: React 📚
+  
+#### 💡 Hard Skills
+- Linguagens e Tecnologias: HTML, CSS, JavaScript, Python, C#, JSON, React
+- Ferramentas: Comandos Git, Comandos Bash (Linux)
+- Conceitos: Algoritmos e Estrutura de dados
 
-#### Soft Skills 🤝
+#### 🤝 Soft Skills
 - Comunicação Efetiva
 - Colaboração e Trabalho em Equipe
 - Organização
 - Gerenciamento de Tempo
 - Adaptabilidade
 
-#### Idiomas 🧠
+#### 🧠 Idiomas
 - Português (nativo)
 - Inglês (B1)
 
