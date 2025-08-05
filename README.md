@@ -10,7 +10,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **CESAR School** 
 
 ### 🚀 Atualmente:
 - Trabalhando em: Projeto Gerador de Imagens (https://github.com/BabiCabral/projeto-gerador-imagens-ia)
-- Estudando: React 📚
+- Estudando: React e Linux 📚
   
 #### 💡 Hard Skills
 - Linguagens e Tecnologias: HTML, CSS, JavaScript, Python, C#, JSON, React
