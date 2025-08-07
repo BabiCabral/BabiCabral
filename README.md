@@ -21,7 +21,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **CESAR School** 
 - Comunicação Efetiva
 - Colaboração e Trabalho em Equipe
 - Organização
-- Gerenciamento de Tempo
 - Adaptabilidade
 
 #### 🧠 Idiomas
