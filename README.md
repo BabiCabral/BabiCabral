@@ -2,7 +2,7 @@
 
 ### 📌 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na **CESAR School** e estou em busca da minha primeira oportunidade na área de tecnologia. Sou uma pessoa curiosa e adaptável, sempre motivada a aprender e a me aprofundar em novos desafios.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **CESAR School** e estou em busca da minha primeira oportunidade na área de tecnologia. Sou uma pessoa curiosa e adaptável, sempre motivada a aprender mais!
 
 ---
 
