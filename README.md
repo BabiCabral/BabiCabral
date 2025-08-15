@@ -13,7 +13,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **CESAR School** 
 - Estudando: JAVA e Linux 📚
   
 #### 💡 Hard Skills
-- Linguagens e Tecnologias: HTML, CSS, JavaScript, Python, JAVA, C#, JSON, React
+- Linguagens e Tecnologias: HTML, CSS, JavaScript, Python, JAVA basico, C# basico, JSON, React
 - Ferramentas: Comandos Git, Comandos Bash (Linux)
 - Conceitos: Algoritmos e Estrutura de dados
 
