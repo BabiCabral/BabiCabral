@@ -10,10 +10,10 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **CESAR School** 
 
 ### 🚀 Atualmente:
 - Trabalhando em: Projeto Gerador de Imagens (https://github.com/BabiCabral/projeto-gerador-imagens-ia)
-- Estudando: React e Linux 📚
+- Estudando: JAVA e Linux 📚
   
 #### 💡 Hard Skills
-- Linguagens e Tecnologias: HTML, CSS, JavaScript, Python, C#, JSON, React
+- Linguagens e Tecnologias: HTML, CSS, JavaScript, Python, JAVA, C#, JSON, React
 - Ferramentas: Comandos Git, Comandos Bash (Linux)
 - Conceitos: Algoritmos e Estrutura de dados
 
@@ -41,8 +41,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **CESAR School** 
   <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Icon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Icon-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Icon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Icon-Linux" height="30" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
-  <img align="center" alt="Icon-Windows" height="30" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg"></div>
+  <img align="center" alt="Icon-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+  <img align="center" alt="Icon-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg">
+</div>
