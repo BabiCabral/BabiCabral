@@ -31,7 +31,6 @@ Desenvolvedora em transição de carreira, focada em construir soluções eficie
 * **Pipeline de Energia - NTT DATA:** Pipeline de ETL completo utilizando **PySpark e SQL**, aplicando arquitetura medalhão e modelagem analítica para dados de consumo energético.
 * **Sistema de Gerenciamento - POO:** Aplicação desenvolvida em **C#** focada em princípios de Programação Orientada a Objetos (POO) e persistência de dados através de um sistema CRUD eficiente.
 * **Ardurama - Snake Game:** Sistema embarcado em **C++** integrando hardware (Arduino) e software, com design técnico e prototipagem desenvolvidos em AutoCAD.
-* **Gerador de Imagens IA:** Aplicação Full-stack (**Python/Flask**) integrada à API da OpenAI para geração e persistência de imagens em banco de dados SQLite.
 
 ### 📊 Atividades Recentes
 
