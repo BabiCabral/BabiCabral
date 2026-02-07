@@ -1,48 +1,50 @@
-# Olá, sou a Babi! 👋
+⚡ Olá, sou a Babi! (Barbara Cabral)
+Desenvolvedora em transição de carreira, focada em construir soluções eficientes através de Dados, Backend e Lógica de Programação. Atualmente curso Análise e Desenvolvimento de Sistemas na CESAR School e participo de projetos que unem engenharia de dados e desenvolvimento de software.
 
-### 📌 Sobre mim
+🎯 Foco Atual
+Engenharia de Dados: Experiência com arquitetura medalhão e processamento distribuído (PySpark/Databricks).
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na **CESAR School** e estou em busca da minha primeira oportunidade na área de tecnologia. Sou uma pessoa curiosa e adaptável, sempre motivada a aprender mais!
+Backend: Aprofundando conhecimentos em linguagens compiladas (C++, Java, C#) e SQL avançado.
 
----
+🛠️ Tech Stack & Ferramentas
+Linguagens: SQL (DQL/DML), Python (PySpark), C++, C#, Java.
 
-### 💻 Minhas Habilidades
+Dados: Databricks, Delta Lake, Modelagem Dimensional (Fato/Dimensão), ETL Pipelines.
 
-### 🚀 Atualmente:
-- Trabalhando em: Projeto Gerador de Imagens (https://github.com/BabiCabral/projeto-gerador-imagens-ia)
-- Estudando: JAVA e Linux 📚
-  
-#### 💡 Hard Skills
-- Linguagens e Tecnologias: HTML, CSS, JavaScript, Python, JAVA basico, C# basico, JSON, React
-- Ferramentas: Comandos Git, Comandos Bash (Linux)
-- Conceitos: Algoritmos e Estrutura de dados
+DevOps & OS: Git, Linux (Fedora/Bash scripts), Metodologias Ágeis (Scrum/Kanban).
 
-#### 🤝 Soft Skills
-- Comunicação Efetiva
-- Colaboração e Trabalho em Equipe
-- Organização
-- Adaptabilidade
+🚀 Projetos em Destaque
+Pipeline de Energia - NTT DATA: Pipeline de ETL completo utilizando PySpark e SQL, aplicando arquitetura medalhão e modelagem analítica para dados de consumo energético.
 
-#### 🧠 Idiomas
-- Português (nativo)
-- Inglês (B1)
+Sistema de Gerenciamento - POO: Aplicação desenvolvida em C# focada em princípios de Programação Orientada a Objetos (POO) e persistência de dados através de um sistema CRUD eficiente.
 
----
+Ardurama - Snake Game: Sistema embarcado em C++ integrando hardware (Arduino) e software, com design técnico e prototipagem desenvolvidos em AutoCAD.
 
-### 📧 Conecte-se
+Gerador de Imagens IA: Aplicação Full-stack (Python/Flask) integrada à API da OpenAI para geração e persistência de imagens em banco de dados SQLite.
 
-- **Email:** babic.tech@gmail.com
-- **LinkedIn:** [linkedin.com/in/babicabral/](https://www.linkedin.com/in/babicabral/)
+📊 Atividades Recentes
+Monitoria Acadêmica: Monitora de Matemática para Computação na CESAR School, auxiliando na base de lógica e algoritmos.
+
+Liderança: Atuo como Representante de Turma (ADS), facilitando a comunicação entre alunos e coordenação.
+
+📫 Vamos conversar?
+LinkedIn: linkedin.com/in/babicabral/
+
+Email: babic.tech@gmail.com
   
 ---
-<div style="display: inline_block"><br>
-  <img align="center" alt="Icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Icon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<div style="display: inline_block">
+  <img align="center" alt="Icon-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg">
+  <img align="center" alt="Icon-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Icon-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Icon-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Icon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  
   <img align="center" alt="Icon-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
-  <img align="center" alt="Icon-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg">
+  <img align="center" alt="Icon-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Icon-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg">
+
+  <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Icon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
